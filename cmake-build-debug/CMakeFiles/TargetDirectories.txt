@@ -1,0 +1,3 @@
+C:/Users/kevin/CLionProjects/2024_Parcial2_KevinMartinez/cmake-build-debug/CMakeFiles/2024_Parcial2_KevinMartinez.dir
+C:/Users/kevin/CLionProjects/2024_Parcial2_KevinMartinez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CLionProjects/2024_Parcial2_KevinMartinez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
